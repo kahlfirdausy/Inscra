@@ -4,7 +4,7 @@
 <h2>Inscra</h2>
 <p>A local-first macOS archive for things worth keeping: quotes, long reads, links, images and video.<br/>One keystroke saves it, one grid brings it back. Nothing is uploaded anywhere.</p>
 
-<a href="https://github.com/kahlfirdausy/Inscra/releases/latest/download/Inscra-v0.1.dmg"><b>Download Inscra v0.1</b></a>
+<a href="https://github.com/kahlfirdausy/Inscra/releases/latest/download/Inscra.dmg"><b>Download Inscra v0.1</b></a>
 
 <sub>
 <b>Requires macOS 26 Tahoe or later.</b> Apple Silicon and Intel.<br/>
