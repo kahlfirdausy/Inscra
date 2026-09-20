@@ -4,10 +4,14 @@
 <h2>Inscra</h2>
 <p>A local-first macOS archive for things worth keeping: quotes, long reads, links, images and video.<br/>One keystroke saves it, one grid brings it back. Nothing is uploaded anywhere.</p>
 
+<a href="https://github.com/kahlfirdausy/Inscra/releases/latest/download/Inscra-v0.1.dmg"><b>Download Inscra v0.1</b></a>
+
 <sub>
-<b>Requires macOS 26 Tahoe or later.</b><br/>
-The first build is not published yet. Watch this repository to hear when it is.<br/>
-<a href="https://github.com/kahlfirdausy/Inscra/releases">Browse releases</a>
+<b>Requires macOS 26 Tahoe or later.</b> Apple Silicon and Intel.<br/>
+Inscra is not notarised, so macOS blocks the first launch. See
+<a href="#opening-it-the-first-time">Opening it the first time</a> below.<br/>
+<a href="https://inscra.khalifafirdausy.com">inscra.khalifafirdausy.com</a> ·
+<a href="https://github.com/kahlfirdausy/Inscra/releases">All releases</a>
 </sub>
 </div>
 
