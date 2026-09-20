@@ -83,8 +83,8 @@ All of it. Every feature, no item limits, no trial clock, no account. Inscra
 costs nothing to run, so it costs nothing to use.
 
 If it becomes part of how you work, you can put in whatever it is worth to
-you. There is a link at the foot of the sidebar, one in Settings, and one on
-[inscra.khalifafirdausy.com](https://inscra.khalifafirdausy.com). Nothing in
+you at [buymeacoffee.com/khalifafirdausy](https://buymeacoffee.com/khalifafirdausy).
+There is a link at the foot of the sidebar and another in Settings. Nothing in
 the app changes either way, and nothing is held back if you do not.
 
 ## Where your archive lives
