@@ -107,9 +107,13 @@ Inscra is not on the Mac App Store, and was never headed there.
 Inscra is not notarised by Apple, so macOS stops the first launch of it the way
 it stops anything it has not seen before.
 
-1. Double click Inscra. macOS will say it cannot check the app.
-2. Open **System Settings**, then **Privacy & Security**, and scroll to the bottom.
-3. Click **Open Anyway**. That is the last time you will be asked.
+1. Double click Inscra. macOS shows **"Inscra" Not Opened** and says Apple
+   could not verify it is free of malware. It says this about every
+   application it has not seen before.
+2. Click **Done**. The highlighted blue button says *Move to Trash*, and it
+   is not the one you want.
+3. Open **System Settings**, then **Privacy & Security**, scroll to the
+   bottom and click **Open Anyway**. You will not be asked again.
 
 ## Not built, on purpose
 
